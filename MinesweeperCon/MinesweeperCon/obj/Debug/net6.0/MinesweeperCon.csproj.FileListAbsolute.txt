@@ -1,0 +1,15 @@
+C:\Users\232003\source\repos\MinesweeperCon\MinesweeperCon\bin\Debug\net6.0\MinesweeperCon.exe
+C:\Users\232003\source\repos\MinesweeperCon\MinesweeperCon\bin\Debug\net6.0\MinesweeperCon.deps.json
+C:\Users\232003\source\repos\MinesweeperCon\MinesweeperCon\bin\Debug\net6.0\MinesweeperCon.runtimeconfig.json
+C:\Users\232003\source\repos\MinesweeperCon\MinesweeperCon\bin\Debug\net6.0\MinesweeperCon.dll
+C:\Users\232003\source\repos\MinesweeperCon\MinesweeperCon\bin\Debug\net6.0\MinesweeperCon.pdb
+C:\Users\232003\source\repos\MinesweeperCon\MinesweeperCon\obj\Debug\net6.0\MinesweeperCon.csproj.AssemblyReference.cache
+C:\Users\232003\source\repos\MinesweeperCon\MinesweeperCon\obj\Debug\net6.0\MinesweeperCon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\232003\source\repos\MinesweeperCon\MinesweeperCon\obj\Debug\net6.0\MinesweeperCon.AssemblyInfoInputs.cache
+C:\Users\232003\source\repos\MinesweeperCon\MinesweeperCon\obj\Debug\net6.0\MinesweeperCon.AssemblyInfo.cs
+C:\Users\232003\source\repos\MinesweeperCon\MinesweeperCon\obj\Debug\net6.0\MinesweeperCon.csproj.CoreCompileInputs.cache
+C:\Users\232003\source\repos\MinesweeperCon\MinesweeperCon\obj\Debug\net6.0\MinesweeperCon.dll
+C:\Users\232003\source\repos\MinesweeperCon\MinesweeperCon\obj\Debug\net6.0\refint\MinesweeperCon.dll
+C:\Users\232003\source\repos\MinesweeperCon\MinesweeperCon\obj\Debug\net6.0\MinesweeperCon.pdb
+C:\Users\232003\source\repos\MinesweeperCon\MinesweeperCon\obj\Debug\net6.0\MinesweeperCon.genruntimeconfig.cache
+C:\Users\232003\source\repos\MinesweeperCon\MinesweeperCon\obj\Debug\net6.0\ref\MinesweeperCon.dll
